@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">小慕餐厅</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
